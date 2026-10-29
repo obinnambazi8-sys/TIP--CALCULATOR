@@ -1,0 +1,57 @@
+Python Tip Calculator
+
+Overview
+
+The Python Tip Calculator is a simple command-line application that calculates how much each person should pay when splitting a restaurant bill, including a tip.
+
+The user enters the total bill, chooses a tip percentage, and specifies how many people will share the bill. The program then calculates the total amount and the cost per person.
+
+Features
+
+Accepts the total bill amount.
+
+Allows the user to enter a tip percentage, such as 10%, 12%, or 15%.
+
+Accepts the number of people sharing the bill.
+
+Calculates the tip amount.
+
+Calculates the total bill, including the tip.
+
+Divides the total bill equally between everyone.
+
+How the Program Works
+
+Displays a welcome message.
+
+Asks the user for the total bill.
+
+Asks the user for the desired tip percentage.
+
+Asks how many people will split the bill.
+
+Calculates the tip amount using the bill and tip percentage.
+
+Adds the tip to the original bill.
+
+Divides the total by the number of people.
+
+Displays the amount each person should pay.
+
+Example
+
+Input:
+
+Total bill: $100
+
+Tip percentage: 15%
+
+Number of people: 4
+
+Calculation:
+
+Tip amount: $15
+
+Total bill including tip: $115
+
+Amount per person: $28.75
